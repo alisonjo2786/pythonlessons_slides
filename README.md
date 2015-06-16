@@ -1,4 +1,4 @@
-Hear Me Code's slides
+Slides for Python lessons (forked from Hear Me Code)
 ======
 
 See the README in each folder for an outline of each lesson as well as why we're learning it and practical examples of what each lesson can help us achieve.
