@@ -1,4 +1,4 @@
-Hear Me Code Lesson 1
+Python Lesson 1 (forked from Hear Me Code)
 ======
 
 **What you'll learn:** 
